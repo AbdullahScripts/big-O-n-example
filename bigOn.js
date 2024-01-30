@@ -9,7 +9,8 @@ for(let i=0; i<array.length;i++){
         console.log("memo find at index: "+ i )
     }
 }
-let te = performance.now();
 
 }
 memofinder(moreNames);
+
+
